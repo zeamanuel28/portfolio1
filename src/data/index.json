@@ -1,0 +1,67 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "./img/product-chain-1.png",
+        "title": "Front-End",
+        "description": "With a passion for frontend development, I specialize in creating engaging user experiences using React, Vue, and Next.js. Proficient in crafting dynamic and responsive web applications, I leverage the power of React for its component-based architecture, Vue for its flexibility and simplicity, and Next.js for enhanced performance and server-side rendering capabilities. My expertise lies in seamlessly blending these technologies to build modern, intuitive interfaces that captivate users. Let's collaborate to bring your digital vision to life and elevate the user experience to new heights.e"
+      },
+      {
+        "id": "2",
+        "src": "./img/tag-1.png",
+        "title": "Back-End",
+        "description": "In the realm of backend development, my proficiency shines through in harnessing the capabilities of Node.js to architect and deploy high-performance server-side solutions. With a deep understanding of Node.js's non-blocking I/O model and event-driven architecture, I specialize in crafting efficient and scalable backend systems that power modern web applications. From building RESTful APIs to integrating with databases and implementing authentication mechanisms, I ensure that the backend functionality not only meets but exceeds the requirements of the project. Let's collaborate to create backend infrastructures that not only support but elevate the performance and functionality of your digital ventures, driving them towards success and scalability."
+      }
+      
+     
+    ],
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/placeholder-image.png",
+        "title": "Ahuse",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "link": "View In Github"
+      },
+      {
+        "id": "2",
+        "src": "./img/placeholder-image-1.png",
+        "title": "App Dashboard",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "link": "View In Github"
+      },
+      {
+        "id": "3",
+        "src": "./img/placeholder-image-2.png",
+        "title": "Easy Rentn",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "link": "View In Github"
+      }
+    ],
+    "testimonial": [
+      {
+        "id": "1",
+        "count": "5",
+        "src": "./img/avatar-image.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Dianne Russel",
+        "author_designation": "Starbucks"
+      },
+      {
+        "id": "2",
+        "count": "5",
+        "src": "./img/avatar-image-1.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Kristin Watson",
+        "author_designation": "Louis Vuitton"
+      },
+      {
+        "id": "3",
+        "count": "5",
+        "src": "./img/avatar-image-2.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Kathryn Murphy",
+        "author_designation": "McDonald's"
+      }
+    ]
+  }
